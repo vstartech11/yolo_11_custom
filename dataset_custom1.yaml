@@ -1,0 +1,3 @@
+train: /kaggle/input/berkerah-dan-tidak-berkerah/train
+val: /kaggle/input/berkerah-dan-tidak-berkerah/val
+nc: 2

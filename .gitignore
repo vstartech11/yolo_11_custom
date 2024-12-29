@@ -1,0 +1,3 @@
+# Ignore contents of train and val folders
+train/*
+val/*
